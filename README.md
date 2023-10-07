@@ -1,2 +1,1 @@
-# Servir-WEB
-Projeto de redes de computadores
+Projeto da disciplina de redes de computadores, UTFPR
